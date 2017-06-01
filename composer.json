@@ -1,0 +1,23 @@
+{
+    "name": "longzhi/easypay",
+    "type": "library",
+    "description": "Common components for Omnipay payment processing library",
+    "keywords": [
+        "gateway",
+        "easypay",
+        "pay",
+        "payment",
+        "purchase"
+    ],
+    "license": "MIT",
+    "authors": [{
+        "name": "longzhi",
+        "email": "huangbanglong@126.com"
+    }],
+    "autoload": {
+
+    },
+    "require": {
+        "php": ">=5.3.2"
+    }
+}
