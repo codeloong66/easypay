@@ -1,7 +1,7 @@
 {
     "name": "longzhi/easypay",
     "type": "library",
-    "description": "Common components for Omnipay payment processing library",
+    "description": "充值支付网关类库",
     "keywords": [
         "gateway",
         "easypay",
