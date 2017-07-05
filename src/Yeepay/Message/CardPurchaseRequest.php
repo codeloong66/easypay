@@ -24,7 +24,7 @@ class CardPurchaseRequest extends AbstractRequest
             'requestAmount' => $this->getRequestAmount(),
             'url' => $this->getUrl(),
             'cardCode' => 'MOBILE',
-            'productName'=> '37游戏充值',
+            'productName'=> '充值',
             'productType' => '',
             'productDesc' => '',
             'extInfo' => '',
